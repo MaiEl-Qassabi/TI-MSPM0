@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSMPO_Schemsym")(type "KiCad")(uri "${KIPRJMOD}/MSMPO_Schemsym.kicad_sym")(options "")(descr ""))
+)
